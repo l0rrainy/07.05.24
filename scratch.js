@@ -11,7 +11,7 @@ const posicaoSuperiorInicial = 70,
 var txtMouseX = document.getElementById('txtMouseX');
 var txtMouseY = document.getElementById('txtMouseY');
 
-var posicaoSuperior = 70,
+var posicaoSuperior = 70,                                                                                                                                                                                                                     
     posicaoEsquerda = 70,
     topAvatar,
     leftAvatar,
